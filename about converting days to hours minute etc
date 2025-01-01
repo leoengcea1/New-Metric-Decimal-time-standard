@@ -1,0 +1,16 @@
+In this standard when converting days to hours . or days to any other thing you still need to make a calculation but it's only one .
+
+In the actual system you need to calculate for every step like for X days u multiply for 24 to see how many hours u have right , 
+but then to see how many minutes u need to multiply by 60 - do calc again
+And then to see the seconds u multiply again for 60 . see… 3 calculations
+
+In the new system just multiply the day for 8.64 and u have the hours and this already shows the minutes and seconds like
+
+ Take 2 days : 
+2x 8,64 = 17,28 HOURS 
+It means 172800 seconds
+It means 1728,00 minutes too
+17:28:00 . it shows all the quantities right away without mental calcs
+
+
+
