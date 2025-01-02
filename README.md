@@ -29,6 +29,23 @@ Why it's better:
 
 This standard intends to make for more efficient use of time metrics, faster and simpler estimations. Etc . It makes simple and efficient coding without needing to calculate and less confusion when dealing with time metrics in softwares. etc
 
+
+so the units or amounts of measures proposed in this work here and all based on the second would be :
+
+daycents = 864 seconds
+decimal minutes = 100 seconds
+decimal hour = 100 minutes = 10000 seconds
+
+it's good to call decimal to be more clear and differentiate from the older (proposed in french revolution) metric minutes that are based in another measure for seconds that would be 0.864 babylonian second
+
+and notations
+1 dc
+1 md
+1 hd
+
+being 'md hd' better because in many latin languages the adjective "decimal" goes after the noun . and because making	'dm , dh' would be ambiguous and meanings d as deci, and m , h could be confused for the units m - meter , h- henry(inductance) .like dh , dm , could be confused as decimeter and decihenry.
+
+
 To-do : 
 
 datetime : libraries for programming languages supporting this .
