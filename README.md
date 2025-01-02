@@ -33,7 +33,7 @@ This standard intends to make for more efficient use of time metrics, faster and
 so the units or amounts of measures proposed in this work here and all based on the second would be :
 
 
-daycents = 864 seconds
+daycents = 864 seconds (aproximately ) 1/100 day . (day being aprox 86400.002s )
 
 decimal minutes = 100 seconds
 
