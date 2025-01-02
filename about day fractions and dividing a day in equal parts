@@ -1,0 +1,38 @@
+Since yesterday I decided to make a public repo about this idea/proposal of mine I ended up searching more/again about it and I just found another very interesting idea .
+here see. :https://www.reddit.com/r/Metric/comments/2erje7/what_ever_happened_to_metric_time/?rdt=57058 . accessed at 02.01.2025 .
+in this comment "
+mwenechanga
+•
+há 10 anos
+•
+where each day was divided into 1000 "beats"
+
+I'd just call that a milliday, and I'm really most comfortable working with centidays, but since the conversion is straightforward, I'm cool with either.
+
+A centiday is 14.4 minutes, which is close enough to a quarter hour to feel familiar, but more useful since it provides a single standardized unit.
+
+Midnight: 0cd daybreak: 25cd noon: 50cd sunset: 75cd
+
+I get to work at 33cd'o'clock, head home at 70cd'o'clock, with of course a 4cd lunch at 50cd'o'clock."
+
+i read this and found that it's actually a very good idea to divide the day by 100 , and if i look at the amount of seconds in a day that is 86400 u can see that it fits in whole seconds . that can be 864 seconds per centiday or 8:64( decimal minutes and 64 seconds)
+
+If I could make a watch like those analogical, certainly dividing this watch into 100 equal parts seems like the way to do it .
+
+and even better this standardized measure allows the use of day fractions by default . say you have 2,4 days, for example , that means 2 days and 40 centidays directly without calculating anything.
+centidays as cd would be ambiguous with SI unit candela cd for light , so i propose to call it dc and name daycents ,(in portuguese: centavos de dia , por ser 1/100 avos de 1 dia)
+
+so the units or amounts of measures proposed in this work here and all based on the second would be :
+
+daycents = 864 seconds
+decimal minutes = 100 seconds
+decimal hour = 100 minutes = 10000 seconds
+
+it's good to call decimal to be more clear and differentiate from the older (proposed in french revolution) metric minutes that are based in another measure for seconds that would be 0.864 babylonian second
+
+and notations
+1 dc
+1 md
+1 hd
+
+being 'md hd' better because in many latin languages the adjective "decimal" goes after the noun . and because making	'dm , dh' would be ambiguous and meanings d as deci, and m , h could be confused for the units m - meter , h- henry(inductance) .like dh , dm , could be confused as decimeter and decihenry.
